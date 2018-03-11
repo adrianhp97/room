@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/bathroom.unity
+- path: Assets/living_room.unity
   isLoaded: 1
   isActive: 1

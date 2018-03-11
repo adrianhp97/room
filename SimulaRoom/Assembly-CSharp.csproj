@@ -53,9 +53,10 @@
   <ItemGroup>
      <Compile Include="Assets\Crouch.cs" />
      <Compile Include="Assets\CubeColor.cs" />
+     <Compile Include="Assets\DialogHandler.cs" />
+     <Compile Include="Assets\DialogTVBox.cs" />
      <Compile Include="Assets\InputHandler.cs" />
      <Compile Include="Assets\InteractiveObject.cs" />
-     <Compile Include="Assets\InteractiveWindow1.cs" />
      <Compile Include="Assets\LightScript.cs" />
      <Compile Include="Assets\PickPut.cs" />
      <Compile Include="Assets\TurnOnLightWithKeys.cs" />
