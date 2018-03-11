@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Crouch.cs">
+    <Files>
+      <File FileName="Assets\InteractiveObject.cs" Line="16" Column="33" />
+      <File FileName="Assets\LightScript.cs" Line="12" Column="26" />
+      <File FileName="Assets\TurnOnLightWithKeys.cs" Line="14" Column="14" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="14" Column="52" />
+      <File FileName="Assets\PickPut.cs" Line="9" Column="25" />
+      <File FileName="Assets\Crouch.cs" Line="27" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
